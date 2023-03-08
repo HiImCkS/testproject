@@ -1,1 +1,1 @@
-dfkldjfd kl
+print(a*b)
